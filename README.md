@@ -2,10 +2,10 @@
 
 ## Integrantes
 
-* Fernando Gabriel da Silva 👑
-* Matheus
+* 👑 Fernando Gabriel da Silva - 52624395 
+* Matheus Bernardino de Seixas - 52624556
 * Gustavo Arrúda
-* João Augusto de Paula
+* João Augusto de Paula - 52624390
 
 ## Objetivo
 
