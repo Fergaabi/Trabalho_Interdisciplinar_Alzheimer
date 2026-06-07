@@ -2,9 +2,10 @@
 
 ## Integrantes
 
-* Nome Completo - RA
-* Nome Completo - RA
-* Nome Completo - RA
+* Fernando Gabriel da Silva 👑
+* Matheus
+* Gustavo Arrúda
+* João Augusto de Paula
 
 ## Objetivo
 
